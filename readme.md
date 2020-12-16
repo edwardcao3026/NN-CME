@@ -1,4 +1,4 @@
-# Approximation and inference of non-Markov models of gene expression by neural network chemical master equations
+# Neural network aided approximation and parameter inference of stochastic models of gene expression
 
 ***
 This repository contains the julia code and parameters corresponding to the effeciency test presented in:
