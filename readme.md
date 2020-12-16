@@ -1,15 +1,14 @@
-# Neural network aided approximation and parameter inference of stochastic models of gene expression
+# Neural-network chemical master equation (NN-CME)
 
 ***
 This repository contains the julia code and parameters corresponding to the effeciency test presented in:
-Approximation and inference of non-Markov models of gene expression by neural network chemical master equations
+Neural network aided approximation and parameter inference of stochastic models of gene expression
 
 File descriptions:
 
 - "SSA_single_channel_tau10_.csv" is the source data 
-- "params" is the set of trained params for testing
-- "Train from scratch.ipynb" is used for train a NN-CME from scratch
-- "Test with trained params.ipynb" is used for testing with a trained NN-CME
+- "main.ipynb" is the code for training and testing NN-CME
+- "NN-CME.png" shows the prediction result by means of NN-CME
 
 Requirements:
 
