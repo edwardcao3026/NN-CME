@@ -28,7 +28,7 @@ How to run:
 2. Add 'IJulia' in the julia console
    ```Pkg.add('IJulia')```
 
-3. cd to the resository in terminal (Linux) or command window (windows) and open jupyter notebook web
+3. cd to the resository in terminal (Linux) or command window (Windows) and open jupyter notebook web
    ```jupyter notebook```
 
    
