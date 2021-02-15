@@ -9,6 +9,7 @@ File descriptions:
 - "SSA_single_channel_tau10_.csv" is the source data 
 - "main.ipynb" is the code for training and testing NN-CME
 - "NN-CME.png" shows the prediction result by means of NN-CME
+- "processed.mat" summarizes the experimental data from literature for Fig. 4b (inset)
 
 Requirements:
 
