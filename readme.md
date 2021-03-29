@@ -1,4 +1,5 @@
 # Neural-network chemical master equation (NN-CME)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4643094.svg)](https://doi.org/10.5281/zenodo.4643094)
 
 ***
 This repository contains the julia code and parameters corresponding to the effeciency test presented in:
