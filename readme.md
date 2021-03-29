@@ -33,4 +33,6 @@ How to run:
 3. cd to the resository in terminal (Linux) or command window (Windows) and open jupyter notebook web
    ```jupyter notebook```
 
+Please cite the paper:
+* Q. Jiang \textit{et. al.} [Neural network aided approximation and parameter inference of stochastic models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1.full.pdf). \textit{bioRxiv} (2020).
    
