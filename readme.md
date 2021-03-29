@@ -14,9 +14,9 @@ File descriptions:
 Requirements:
 
 - Julia >= 1.4.2
-- Flux
-- DifferentialEquations
-- DiffEqSensitivity
+- Flux v0.10.4
+- DifferentialEquations v6.15.0
+- DiffEqSensitivity v6.26.0
 
 How to run:
 
